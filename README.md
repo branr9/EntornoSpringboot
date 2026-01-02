@@ -6,11 +6,7 @@ Este material es ideal para estudiantes, desarrolladores y profesionales que est
 
 ---
 
-## Curso (Video/Playlist)
-- YouTube (playlist): https://www.youtube.com/playlist?list=PL2Z95CSZ1N4EWw14HZ0NFD3woFcn6uiCm
-- Video (clase): https://www.youtube.com/watch?v=pQGxVgaNM-o
 
----
 
 # 1. Herramientas necesarias (Instalar)
 
